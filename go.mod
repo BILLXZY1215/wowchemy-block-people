@@ -1,3 +1,3 @@
-module github.com/BILLXZY1215/research-group-member-template
+module github.com/BILLXZY1215/people
 
 go 1.19
