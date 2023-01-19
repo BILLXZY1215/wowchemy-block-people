@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/BILLXZY1215/research-group-member-template
 
 go 1.19
